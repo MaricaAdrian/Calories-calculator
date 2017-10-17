@@ -1,0 +1,5 @@
+Eat burger=3000.000000;
+Push up=-100.000000;
+Stand up=-23.500000;
+Screaming=-34.700001;
+Looking=-1.430000;

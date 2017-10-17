@@ -1,0 +1,21 @@
+	Activities
+|	Activity 1	|
+|	Name: Eat burger	|
+|	Intake: 3000.000 calories	|
+|||||||||||||||||||||||||||||||||
+|	Activity 2	|
+|	Name: Push up	|
+|	Intake: -100.000 calories	|
+|||||||||||||||||||||||||||||||||
+|	Activity 3	|
+|	Name: Stand up	|
+|	Intake: -23.500 calories	|
+|||||||||||||||||||||||||||||||||
+|	Activity 4	|
+|	Name: Screaming	|
+|	Intake: -34.700 calories	|
+|||||||||||||||||||||||||||||||||
+|	Activity 5	|
+|	Name: Looking	|
+|	Intake: -1.430 calories	|
+|||||||||||||||||||||||||||||||||
